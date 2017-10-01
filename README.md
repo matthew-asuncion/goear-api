@@ -1,7 +1,7 @@
 # goear_api [![Build Status](https://travis-ci.org/PaquitoSoft/goear-api.png?branch=master)](https://travis-ci.org/PaquitoSoft/goear-api)
 
 Simple API to goear service.
-This is a humble attemp to create an easy to use API for consuming [GoEar](http://goear.com/) music info.
+This is a humble attemp to create an easy to use API for consuming [GoEar](https://goearmp3.net/) music info.
 
 ## Getting Started
 Install the module with: `npm install goear_api`
